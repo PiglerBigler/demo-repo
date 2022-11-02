@@ -6,4 +6,4 @@ Description.
 
 Text and random words.
 
-######Hello there My friend.
+######Goodbye My friend.
