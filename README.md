@@ -1,9 +1,3 @@
 # Demo 
 
-Description.
-
-## Subheader
-
-Text and random words.
-
-######Goodbye My friend.
+This project will be used for learning git and github
