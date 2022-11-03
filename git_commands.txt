@@ -1,0 +1,12 @@
+git status
+git status will show you if a file has been modified or a new file has been made (untracked files)
+
+git add .                 - a period will tell git to track all of the untracked files (eg. modified file, new file)
+git add python_file.py    - you can also just write the name of the file
+git add will tell git which files to track
+
+git commit -m "what_you_modified" -m "extended_description"
+git commit is the step before git push. It is used to save changes
+
+git push
+git push is aftter git commit. It's used to transfer commits to the remote repository (Github)
